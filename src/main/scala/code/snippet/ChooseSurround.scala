@@ -5,5 +5,5 @@ import net.liftweb.http._
 
 
 object ChooseSurround{
-  def render = "#main [data-lift]" #> "surround?with=base;at=content"
+  def render = "#main [data-lift]" #> "surround?with=default;at=content"
 }
