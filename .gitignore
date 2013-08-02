@@ -25,3 +25,5 @@ target/.history
 README
 
 lift_proto.db.h2.db
+
+*.db
